@@ -1,3 +1,4 @@
 world = "hello"
 hello = "world"
-print(f"{world} {hello}!")
+user = input("Enter your name: ")
+print(f"{world.capitalize()} {user}, welcome to the {hello}!")
