@@ -1,9 +1,8 @@
 def sum(values):
-    total = 0
+    result = 0
     for value in values:
-        total += value
-    return total
-
+        result += value
+    return result
 
 numbers = []
 
