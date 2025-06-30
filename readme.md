@@ -36,4 +36,4 @@ Quanto maior o número (1 a 6), menor será o tamanho do titulo
 
 ## Lista de tarefas:
  - [x] feito
- - [] não feito
+ - [ ] não feito
